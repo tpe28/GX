@@ -11,7 +11,8 @@
 
 ## 食用方法
 
-博客图文教程：https://owo.misaka.rest/goormide-xray/
+博客图文教程：~~https://owo.misaka.rest/goormide-xray/~~ *已失效*  
+*请通过 https://web.archive.org/web/20220703133614/https://owo.misaka.rest/goormide-xray/ 浏览* 
 
 1. 注册并登录Goorm账号
 2. 创建一个Container
@@ -24,7 +25,8 @@
 4. 输入以下命令
 
 ```shell
-wget -N https://raw.githubusercontent.com/Misaka-blog/GX/master/misaka.sh && bash misaka.sh
+# wget -N https://raw.githubusercontent.com/Misaka-blog/GX/master/misaka.sh && bash misaka.sh
+wget -N https://raw.githubusercontent.com/tpe28/GX/master/misaka.sh && bash misaka.sh
 ```
 
 5. 配置端口转发
